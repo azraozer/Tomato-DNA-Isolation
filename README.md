@@ -1,4 +1,4 @@
-# Tomato-DNA-Isolation
+# Tomato DNA Isolation
 
 Date: April 26, 2026
 Experiment Number: 001
