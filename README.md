@@ -34,13 +34,9 @@ Filtered the mixture through cheesecloth into a beaker (approx. 1 min). Carefull
 ## 📊 Results 
 
 After approximately 15 minutes, white fibrous structures became fully visible at the alcohol interface.
+- (dna(1).jpeg)
+- (dna.jpeg)
 
-### Visual Evidence
-![DNA Isolation Result](https://github.com/azraozer/Tomato-DNA-Isolation/blob/main/WhatsApp%20Image%202026-04-27%20at%2003.04.17.jpeg?raw=true)
-*Figure 1: High-molecular-weight genomic DNA aggregate visible at the interface.*
-
-> **Note:** Image brightness and contrast have been adjusted to accurately reflect the macroscopic observations made during the experiment.
-
-## 🏆 Conclusion
+# 🏆 Conclusion
 **ISOLATION OF TOMATO DNA HAS BEEN SUCCESSFULLY ACHIEVED.**
 The presence of cotton-like aggregates confirms the successful extraction of genomic material using household reagents.
