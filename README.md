@@ -5,9 +5,6 @@ Experiment Number: 001
 Author: Azra Özer
 Contact: azraozer1022@gmail.com
 
-Experiment Name: 
-Genomic DNA Isolation from Solanum lycopersicum Using Household Reagents
-
 Abstract: 
 In this experiment, genomic DNA that is macroscopically observable was isolated from fresh tomato tissue using materials found at home.
 
@@ -16,13 +13,3 @@ Fresh tomato tissue as a biological sample.
 Lysis solution: 100 ml distilled (purified) water + 15 ml detergent + 5 g NaCl
 Cologne containing 80% alcohol.
 Additional equipment used in the procedure included a resealable plastic bag for mechanical disruption, a coffee filter for filtration, a glass beaker, and a stirring rod.
-
-Experiment Description:
-As the first step of the experiment, I started by creating a solution containing 100 ml of distilled water, 15 ml of detergent, and 5 grams of NaCl. Using a stirring rod, I continued to stir the mixture with slow circular motions for about 2 minutes to prevent foaming and ensure it was homogeneous.
-
-Once the mixture was homogeneous, I chopped the tomato we would use in the experiment into small pieces with a knife. After chopping the tomato, I placed it in a resealable bag, making sure no air remained inside, closed the bag, and began the crushing process. For about 6 minutes, I continuously crushed the tomato with my hand from the outside of the bag until it became a homogeneous liquid.
-
-After ensuring the crushing process was complete, I added the resulting solution to a resealable bag and mixed the ingredients thoroughly for 10 minutes, gently inverting and then re-impinging the bag. After the second minute, I noticed the mixture was foaming, so I slowed down the mixing speed slightly.After ensuring the mixture in the sealed bag was thoroughly and homogeneously mixed, it was filtered through cheesecloth into an empty beaker over approximately 1 minute and allowed to drain completely on its own. Then, cologne containing 80% alcohol, which we had left to sit for about 9 hours, was added to the beaker to prevent it from mixing with the mixture.
-
-The image of the DNA, which became fully visible macroscopically approximately 15 minutes after being added, is shared below.
-The white, fibrous structures observed at the alcohol interface confirm the successful extraction of high-molecular-weight genomic DNA from the tomato sample
